@@ -5,7 +5,7 @@ Course Inventory is a Java project for dealing with the course CRUD process
 ## Installation
 
 ### Requirements
-* JDK v8
+* JDK v10
 * Netbeans
 * Scene Builder
 
