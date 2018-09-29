@@ -20,4 +20,5 @@ $ Callback interface
 $ CellFactory
 $ Property Binding
 ```
+## Visuals
 
