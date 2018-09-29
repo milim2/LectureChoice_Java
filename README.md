@@ -21,4 +21,6 @@ $ CellFactory
 $ Property Binding
 ```
 ## Visuals
-
+![pic01](./img/pic01.png)
+![pic02](./img/pic02.png)
+![pic04](./img/pic04.png)
